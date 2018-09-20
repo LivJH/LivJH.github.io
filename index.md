@@ -1,6 +1,6 @@
 # Welcome to Liv's Website
 
-### Profile
+### **Profile**
 
 Hi I'm Olivia! 
 
@@ -12,4 +12,8 @@ As a Geography graduate, I have always had an interest in spatial information wh
 
 You can use the [University of Liverpool Geographic Data Science website](https://www.liverpool.ac.uk/geographic-data-science/) to have a look at the current research at our Geographic Data Science Lab.
 
+### Research projects 
+
+* Undergraduate dissertation: Agricultural land use change in the Isle of Axholme
+* Postgraduate research: Improving estimates of the relative risk of night-time economy (NTE) violence by integrating new forms of data 
 
