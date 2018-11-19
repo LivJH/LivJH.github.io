@@ -34,4 +34,6 @@ In order to function an ABM, there needs to be a *model code*, *agent code* and 
 
 My ABM contained 10 agents whom had the ability to eat, move, and share their distance with their neighbours to prevent any collisions, in this case we can call the agents 'sheep'. The environment in the ABM was raster data, which is made up of cells where each one is appointed a value. The sheep's number of iterations were set to 100, meaning they could move and eat around 100 times until the model code told them to stop, this would produce patterns from where the sheep had been interacting with their environment. 
 
+**Application of ABMs in the real world**
+
 ABMs are really useful when looking into criminal offences as they help to explore the relationship burglars have with their environment, or neighbourhood. I hope to implement an ABM into my PhD research 
