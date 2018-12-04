@@ -24,4 +24,8 @@ You can use the [University of Liverpool Geographic Data Science website](https:
 
 
 
+### **Projects**
+
+* In a recent assignment I create an Agent Based Model, the description and link to the model can be found [here](ABM.md) 
+
 
