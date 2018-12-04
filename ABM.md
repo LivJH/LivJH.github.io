@@ -1,4 +1,4 @@
-### **Agent-Based Models (ABM)** 
+# **Agent-Based Model (ABM)** 
 
 Throughout my learning so far, I have been able to produce an Agent-Based Model (ABM). This form of model is useful for understanding how individuals, or agents, interact with one another and with their environment. The agent will randomly move within their environment for a number of times, which is measured by the number of iterations the model has been set to. Eventually, a pattern will emerge from the agent's movements in the environment which can reveal the complex relationships the agents have with their environment. 
 
