@@ -9,7 +9,7 @@ Throughout my learning so far, I have been able to produce an Agent-Based Model 
 ## **Creating the Foundations for an ABM**
 
 
-The code for Agent Framework can be found [here](https://github.com/LivJH/LivJH.github.io/blob/master/AgentFrameworkcopy.py) and the Agent Based Model can be found [here](). 
+The code for Agent Framework can be found [here](https://github.com/LivJH/LivJH.github.io/blob/master/AgentFrameworkcopy.py) and the Agent Based Model can be found [here](https://github.com/LivJH/LivJH.github.io/blob/master/ABM.py). 
 
 In order to function an ABM, there needs to be a *model code*, *agent framework code* and *environment code*. The *model code* is where we set up the ABM's iterations, for loops, stopping commands; the *agent frameeork code* is used to build the agents and their behaviours, this code also allows agents to understand their neighbours' (other agents) behaviours so they can interact with one another; and the *environment code* is the agent's territory which keeps the agents within a limited space. 
 
